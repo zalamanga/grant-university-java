@@ -102,3 +102,7 @@ Ini demo lokal. Penerapan publik masih memerlukan HTTPS/cookie Secure, pembatasa
 ## Atribusi
 
 Nama portal dan `Images/education.jpg` berasal dari sumber Grant_University dan gambar disalin tanpa perubahan isi. Tidak ditemukan Git remote, LICENSE, atau nama pembuat yang dapat dipastikan pada sumber lokal yang diaudit. Asal/lisensi gambar belum didokumentasikan. Modernisasi ini tidak mengklaim afiliasi kampus atau kepemilikan seluruh aset dan tidak menambahkan lisensi baru. Lihat [NOTICE](NOTICE).
+
+## Alur kode
+
+[Diagram alur, tanggung jawab file, dan batas penyimpanan](docs/CODE_FLOW.md).

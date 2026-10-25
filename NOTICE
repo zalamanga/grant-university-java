@@ -1,0 +1,23 @@
+Grant University Java
+
+Proyek ini melanjutkan sumber lokal NetBeans bernama Grant_University.
+Tidak ditemukan Git remote, berkas lisensi, atau nama pembuat yang dapat
+dipastikan pada sumber yang diaudit. Nama Grant University merupakan nama
+dalam proyek latihan tersebut, bukan klaim afiliasi dengan kampus nyata.
+
+Nama portal, arah warna navy/putih, dan aset Images/education.jpg
+dipertahankan. Aset disalin tanpa perubahan isi. Asal dan lisensi gambar
+belum didokumentasikan; perapihan ini tidak memberikan lisensi baru atau
+mengklaim kepemilikan seluruh kode dan aset.
+
+Empat program contoh (Science A-101, Law A-105, Medical A-110, dan
+Management A-115), durasi, syarat, serta biaya berasal dari
+CourseDetailsBean.java sumber dan ditandai sebagai contoh pada antarmuka.
+Nilai itu bukan informasi penawaran program atau biaya yang berlaku.
+Riwayat kampus, jumlah institusi/mahasiswa, kontak, profil orang contoh,
+dan tanggal penerimaan 2011 tidak dipublikasikan sebagai fakta aktual.
+
+Implementasi JSF request-scoped dengan login/profil hardcoded diganti
+dengan Servlet/JSP/JDBC agar registrasi dan profil per akun tersimpan di
+MySQL serta dapat dijalankan dengan Maven dan Tomcat 9. Tidak ada data
+akun/profil dari instalasi lama yang disalin.
